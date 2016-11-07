@@ -52,7 +52,7 @@ import java.util.List;
 public class AddOperators{
 	
 	public static void main(String[] args){
-		String num = "1000000009";
+		String num = "1000009";
 		int target = 9;
 		AddOperators opr = new AddOperators();
 		List<String> result = opr.addOperators(num, target);

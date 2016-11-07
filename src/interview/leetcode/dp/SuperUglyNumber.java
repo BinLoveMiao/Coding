@@ -1,4 +1,4 @@
-package interview.leetcode.math;
+package interview.leetcode.dp;
 
 
 public class SuperUglyNumber {

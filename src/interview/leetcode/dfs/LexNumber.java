@@ -1,4 +1,4 @@
-package interview.leetcode.math;
+package interview.leetcode.dfs;
 
 import java.util.ArrayList;
 import java.util.List;
