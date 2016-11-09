@@ -1,4 +1,4 @@
-package interview.leetcode;
+package interview.leetcode.hashtable;
 
 import java.util.HashMap;
 import java.util.Map;
